@@ -1,26 +1,28 @@
 # alx-intermediate-frontend
-<!DOCTYPE html>
+
 <html>
   <head>
-    <title>My Semantic Page</title>
   </head>
   <body>
     <header>
       <nav>
         <a href="#">Home</a>
         <a href="#">About</a>
+        <a href="#">Contact</a>
       </nav>
     </header>
     <main>
       <article>
-        <h1>Welcome</h1>
+        <h1>Article Title</h1>
         <section>
-          <p>This is a semantic HTML structure.</p>
+          <!-- Content goes here -->
         </section>
       </article>
     </main>
     <footer>
-      <p>&copy; 2025 Kelvin Bamfo</p>
+      &copy; Kelvin Bamfo
     </footer>
   </body>
 </html>
+
+
