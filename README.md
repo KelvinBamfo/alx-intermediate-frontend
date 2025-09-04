@@ -3,7 +3,6 @@
 <html>
   <head>
     <title>My Semantic Page</title>
-  </head>
   <body>
     <header>
       </nav>
