@@ -3,8 +3,12 @@
 <html>
   <head>
     <title>My Semantic Page</title>
+  </head>
   <body>
     <header>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
       </nav>
     </header>
     <main>
