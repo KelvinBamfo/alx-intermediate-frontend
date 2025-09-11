@@ -1,0 +1,28 @@
+These are the steps I followed to install SASS with Meta Ai.
+1. Install NVM and Node.js:
+
+bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+2. Load NVM:
+
+bash
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+
+3. Install Node.js 20.16.0:
+
+bash
+nvm install 20.16.0
+
+4. Install SASS:
+
+bash
+npm install -g sass
+
+5. Verify Node.js and SASS versions:
+
+bash
+node -v
+sass --version
